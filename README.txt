@@ -14,5 +14,5 @@ touch README
 $ git remote add origin https://github.com/milamitova/Hello-World.git
 # Creates a remote named "origin" pointing at your GitHub repository
 
-git push origin master
+$ git push origin master
 # Sends your commits in the "master" branch to GitHub
